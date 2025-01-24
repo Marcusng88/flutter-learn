@@ -1,16 +1,25 @@
-# app1_roll_dice
 
-A new Flutter project.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### Roll Dice Project: `roll_dice/README.md`
+```markdown
+# Roll Dice App 🎲
 
-A few resources to get you started if this is your first Flutter project:
+The Roll Dice app is a simple Flutter project that demonstrates the basics of Flutter development. It allows users to roll a dice and view the random result.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- **Interactive Dice**: Tap a button to roll the dice.
+- **Random Outcome**: Displays a dice face (1 to 6) randomly.
+- **Minimalist Design**: Clean and simple UI.
+
+---
+
+## How to Run
+1. Clone the repository and navigate to the `roll_dice` folder:
+   ```bash
+   git clone https://github.com/Marcusng88/flutter-learn.git
+   cd flutter-learn/roll_dice
+
