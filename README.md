@@ -14,6 +14,7 @@ This repository contains all my practice projects, tutorials, and experiments as
 
 ### Projects
 1. **Roll Dice App**: A simple app to roll a dice and display the result.
+2. **Quiz App**: A simple quiz app
 
 
 ---

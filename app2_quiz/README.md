@@ -1,16 +1,24 @@
-# app2_quiz
+# Flutter Quiz App
 
-A new Flutter project.
+A simple and interactive quiz application built using Flutter. This app allows users to test their knowledge on various topics through a series of questions, providing a fun and engaging experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multiple-choice questions with a sleek and intuitive UI.
+- Cross-platform compatibility (iOS, Android, Web).
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: For building the app's UI and functionality.
+- **Dart**: The programming language powering Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## How to Run
+
+1. Clone the repository and navigate to the directory:
+   ```bash
+   cd quiz-app
+   
+2. run the app
+   ```bash
+   flutter run
